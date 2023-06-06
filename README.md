@@ -9,9 +9,9 @@
 ``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``, ``Miro``, ``Сheckvist``
 <br>
 ## Знание иностранных языков
-<p>русский - носитель;</p>
-<p>английский - B2,</p>
-<p>голландский  - А1.</p> 
+<p>русский      - С2 :green_circle: :green_circle: :green_circle: :green_circle: :green_circle:</p>
+<p>английский   - B2 :green_circle: :green_circle: :green_circle: :red_circle: :red_circle:</p>
+<p>голландский  - А1 :green_circle: :red_circle: :red_circle: :red_circle: :red_circle:</p> 
 
 ## Проекты
 #### Проект 1: тестирование личного кабинета для учителей в веб-приложении от Skyeng
