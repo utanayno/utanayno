@@ -48,7 +48,7 @@
 <li>техническая поддержка работы системы;</li>
 <br>
 
-> Ссылка на проект: <a href="https://www.antiplagiat.ru" target="_blank">Антиплагиат.ВУЗ!</a>
+> Ссылка на проект: <a href="https://www.antiplagiat.ru" target="_blank">Антиплагиат.ВУЗ</a>
 
 Итоги:
 
