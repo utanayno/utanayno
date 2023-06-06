@@ -44,8 +44,7 @@
 <li>курирование ввода системы в эксплуатацию;</li>
 <li>техническая поддержка работы системы;</li>
 <br>
-> Ссылка на проект:[](https://antiplagiat.ru/)
-> Ссылка на проект:
+> Ссылка на проект: <a href="https://www.[antiplagiat.ru]" target="_blank">Learn Markdown!</a>
 
 Итоги:
 
