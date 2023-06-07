@@ -30,7 +30,7 @@
  
 Как решала: составила тест-план в *Confluence* с указанием видов, сроков тестирования; провела декомпозицию продукта, подготовила чек-листы в *Checkvist* и *Sitechko* по функциональному тестированию, регрессиононному тестированию, провела тестирование требований продукта, составила тест-кейсы в *qase.io* по приемочному и smoke тестированиям, создала *Postman*-коллекцию, провела test-run, завела баги в баг-трекинговой системе *Jira*, подготовила отчет по тестированию в *Confluence*.
 
-> Ссылка на проект: <a href="https://github.com/utanayno/utanayno/blob/main/%D0%9F%D0%BB%D0%B0%D0%BD.pdf" target="_blank">тест-план</a>, <a href="https://github.com/utanayno/utanayno/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82.pdf" target="_blank">отчет</a>
+> Ссылка на проект: <a href="https://github.com/utanayno/utanayno/blob/main/project1/%D0%9F%D0%BB%D0%B0%D0%BD.pdf" target="_blank">тест-план</a>, <a href="https://github.com/utanayno/utanayno/blob/main/project1/%D0%9E%D1%82%D1%87%D0%B5%D1%82.pdf" target="_blank">отчет</a>
 
 Итоги:
 
@@ -47,8 +47,6 @@
 <li>курирование ввода системы в эксплуатацию;</li>
 <li>техническая поддержка работы системы;</li>
 <br>
-
-> Ссылка на проект: <a href="https://www.antiplagiat.ru" target="_blank">Антиплагиат.ВУЗ</a>
 
 Итоги:
 
