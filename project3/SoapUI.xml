@@ -1,0 +1,116 @@
+<!--Reqest_1 -->
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:spel="http://speller.yandex.net/services/spellservice">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <spel:CheckTextsRequest lang="ru" options="0" format="plain">
+         <spel:text>Превет, как дила?</spel:text>
+      </spel:CheckTextsRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+<!--Response_1 -->
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <CheckTextsResponse xmlns="http://speller.yandex.net/services/spellservice">
+         <ArrayOfSpellResult>
+            <SpellResult>
+               <error code="1" pos="0" row="0" col="0" len="6">
+                  <word>Превет</word>
+                  <s>Привет</s>
+               </error>
+               <error code="1" pos="12" row="0" col="12" len="4">
+                  <word>дила</word>
+                  <s>дела</s>
+               </error>
+            </SpellResult>
+         </ArrayOfSpellResult>
+      </CheckTextsResponse>
+   </soap:Body>
+</soap:Envelope>
+
+<!--Reqest_2 -->
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:spel="http://speller.yandex.net/services/spellservice">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <spel:CheckTextsRequest lang="ru" options="0" format="">
+         <spel:text>Пайдем делать дамашнюю роботу</spel:text>
+         <spel:text>Кокая завтро пагода?</spel:text>
+         <spel:text>Трое в лотке несчитая сабаки</spel:text>
+      </spel:CheckTextsRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+<!--Response_2 -->
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <CheckTextsResponse xmlns="http://speller.yandex.net/services/spellservice">
+         <ArrayOfSpellResult>
+            <SpellResult>
+               <error code="1" pos="0" row="0" col="0" len="6">
+                  <word>Пайдем</word>
+                  <s>Пойдем</s>
+               </error>
+               <error code="1" pos="14" row="0" col="14" len="8">
+                  <word>дамашнюю</word>
+                  <s>домашнюю</s>
+               </error>
+            </SpellResult>
+            <SpellResult>
+               <error code="1" pos="6" row="0" col="6" len="6">
+                  <word>завтро</word>
+                  <s>завтра</s>
+               </error>
+            </SpellResult>
+            <SpellResult>
+               <error code="1" pos="13" row="0" col="13" len="8">
+                  <word>несчитая</word>
+                  <s>не считая</s>
+               </error>
+               <error code="1" pos="22" row="0" col="22" len="6">
+                  <word>сабаки</word>
+                  <s>собаки</s>
+               </error>
+            </SpellResult>
+         </ArrayOfSpellResult>
+      </CheckTextsResponse>
+   </soap:Body>
+</soap:Envelope>
+
+
+<!--Reqest_3 -->
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:spel="http://speller.yandex.net/services/spellservice">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <spel:CheckTextsRequest lang="en" options="0" format="">
+         <spel:text>Whot a wanderful laif</spel:text>
+               </spel:CheckTextsRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+
+<!--Response_3 -->
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <CheckTextsResponse xmlns="http://speller.yandex.net/services/spellservice">
+         <ArrayOfSpellResult>
+            <SpellResult>
+               <error code="1" pos="0" row="0" col="0" len="4">
+                  <word>Whot</word>
+                  <s>What</s>
+               </error>
+               <error code="1" pos="7" row="0" col="7" len="9">
+                  <word>wanderful</word>
+                  <s>wonderful</s>
+               </error>
+               <error code="1" pos="17" row="0" col="17" len="4">
+                  <word>laif</word>
+               </error>
+            </SpellResult>
+         </ArrayOfSpellResult>
+      </CheckTextsResponse>
+   </soap:Body>
+</soap:Envelope>
+
+
+
