@@ -97,7 +97,7 @@
 <br>
 
 ## Контактная информация
-:e-mail: chechulinau@gmail.com
+:e-mail: utanayno@gmail.com
 <br> 
 <a href="https://www.linkedin.com/in/yulia-tanayno-910039265/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
