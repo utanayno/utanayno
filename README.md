@@ -99,6 +99,6 @@
 ## Контактная информация
 :e-mail: utanayno@gmail.com
 <br> 
-<a href="https://www.linkedin.com/in/yulia-tanayno-910039265/">
+<a href="[https://www.linkedin.com/in/julia-tanayno/]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
