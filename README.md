@@ -55,7 +55,7 @@
  
 Как решала: составила тест-план в *Notion* с указанием видов, сроков тестирования; подготовила чек-листы в *Sitechko* по функциональному и иным видам тестирования, провела тестирование требований продукта, провела test-run, завела баги в баг-трекинговой системе *Jira*, подготовила отчет по тестированию в *Notion*.
 
-> Ссылка на проект: <a href="https://www.notion.so/Skyeng-0f53b9041c33434f805c815bde4775ba?pvs=4">тест-план</a>, <a href="https://github.com/utanayno/utanayno/blob/31bc8e936f5e954c65c3736151fda3c312cdfb75/project5/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%8B_Sitechko.xlsx" target="_blank">чек листы</a>, <a href="https://docs.google.com/spreadsheets/d/1nU4XH3us9WomvFjJiXH0CSrYS47Up81iZUy-sfS9vhU/edit?usp=sharing" target="_blank">чек листы и тестирование требований</a>, <a href="https://github.com/utanayno/utanayno/blob/69c843634fa69ebe06f99d4b84663a98ec496598/project5/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B.pdf" target="_blank">баг-репорты</a>
+> Ссылка на проект: <a href="https://www.notion.so/Skyeng-0f53b9041c33434f805c815bde4775ba?pvs=4">тест-план</a>, <a href="https://docs.google.com/spreadsheets/d/1pFMnt6pnh8knFhNRS2SP7Cswewv-DNqT6u2ibqJ0ngM/edit?usp=sharing" target="_blank">чек листы</a>, <a href="https://docs.google.com/spreadsheets/d/1nU4XH3us9WomvFjJiXH0CSrYS47Up81iZUy-sfS9vhU/edit?usp=sharing" target="_blank">чек листы и тестирование требований</a>, <a href="https://github.com/utanayno/utanayno/blob/69c843634fa69ebe06f99d4b84663a98ec496598/project5/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B.pdf" target="_blank">баг-репорты</a>
 
 Итоги:
 
