@@ -99,6 +99,10 @@
 ## Контактная информация
 :e-mail: utanayno@gmail.com
 <br> 
-<a href="[https://www.linkedin.com/in/julia-tanayno/]">
+<a href="https://www.linkedin.com/in/julia-tanayno/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<br> 
+<a href="https://t.me/julie_tanayno">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
