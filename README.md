@@ -104,5 +104,5 @@
   </a>
 <br> 
 <a href="https://t.me/julie_tanayno">
-    < img height=150 length=150 img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img height="175px" length="175px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
