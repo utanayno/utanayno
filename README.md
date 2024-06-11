@@ -14,7 +14,7 @@
 ## Знание иностранных языков
 <p>русский      - С2 :green_circle: :green_circle: :green_circle: :green_circle: :green_circle:</p>
 <p>английский    - B2 :green_circle: :green_circle: :green_circle: :red_circle: :red_circle:</p>
-<p>голландский   - А1 :green_circle: :red_circle: :red_circle: :red_circle: :red_circle:</p> 
+<p>голландский   - А2 :green_circle: :green_circle: :red_circle: :red_circle: :red_circle:</p> 
 
 ## Проекты
 #### :pushpin: Проект 1: тестирование личного кабинета для учителей в веб-приложении от Skyeng
